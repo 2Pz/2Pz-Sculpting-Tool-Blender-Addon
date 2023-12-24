@@ -12,7 +12,7 @@ The **2Pz Sculpting Tool** is a Blender addon that provides additional sculpting
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/2Pz/2Pz-Sculpting-Tool-Blender-Addon/releases/new) page.
+1. Download the latest release from the [Releases](https://github.com/2Pz/2Pz-Sculpting-Tool-Blender-Addon/releases) page.
 2. In Blender, go to `Edit > Preferences > Add-ons`.
 3. Click `Install` and select the downloaded ZIP file.
 4. Enable the addon by checking the checkbox next to "2Pz Sculpting Tool."
